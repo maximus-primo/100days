@@ -1,0 +1,24 @@
+{
+  "name": "comingsoon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve",
+    "build": "index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [],
+  "author": " Max Primo ",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "put git Url to readme",
+  "devDependencies": {
+    "serve": "^11.2.0"
+  }
+}
